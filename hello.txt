@@ -1,1 +1,2 @@
 This is my first time with nano and command line edit
+This is my first edit with vim and I successfully exit vim :)
